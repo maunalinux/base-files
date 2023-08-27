@@ -1,0 +1,54 @@
+############
+# Mauna 23 #
+############
+
+Suite: mauna
+RepositoryType: deb
+BaseURI: http://deb.maunalinux.top/mauna/
+MatchURI: mauna
+MirrorsFile: Mauna.mirrors
+Description: Amarok 23 'Horizon'
+Component: main
+CompDescription: Suportado oficialmente
+Component: contrib
+CompDescription: Pacotes compativeis com a DFSG e com as dependencias non-free
+Component: non-free-firmware
+CompDescription: Firmware não compatível com DFSG para suporte de hardware
+Component: non-free
+CompDescription: Pacotes incompativeis com a DFSG
+
+#############
+# Debian Testing #
+#############
+
+Suite: testing
+RepositoryType: deb
+BaseURI: http://deb.debian.org/debian/
+MatchURI: ((http|ftp)[0-9]*\.([a-z]*\.){{0,1}}|deb\.|httpredir\.)debian\.org
+MirrorsFile: Debian.mirrors
+ParentSuite: mauna
+Description: Debian Testing 'Trixie'
+Component: main
+CompDescription: Officially supported
+Component: contrib
+CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free-firmware
+CompDescription: Non-DFSG-compatible Firmware for Hardware Support
+Component: non-free
+CompDescription: Non-DFSG-compatible Software
+
+Suite: testing-security
+RepositoryType: deb
+BaseURI: http://security.debian.org/
+MatchURI: security\.debian\.org
+MirrorsFile: Debian.mirrors
+ParentSuite: mauna
+Description: Atualizações de segurança do Debian
+
+Suite: testing-updates
+RepositoryType: deb
+BaseURI: http://security.debian.org/
+MatchURI: security\.debian\.org
+MirrorsFile: Debian.mirrors
+ParentSuite: mauna
+Description: Atualizações recomendadas do Debian

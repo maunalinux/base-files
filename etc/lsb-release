@@ -1,0 +1,11 @@
+PRETTY_NAME="Mauna Linux 23.9"
+NAME="Mauna Linux"
+VERSION_ID="23.9"
+VERSION="23.9 Horizon"
+VERSION_CODENAME=Horizon
+ID=mauna
+ID_LIKE=debian
+HOME_URL="https://maunalinux.top/"
+SUPPORT_URL="https://forum.maunalinux.top/"
+BUG_REPORT_URL="https://github.com/maunalinux/issue/"
+WIKI_URL="http://wiki.maunalinux.top/"

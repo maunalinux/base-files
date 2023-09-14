@@ -1,3 +1,11 @@
+base-files (23.9mauna2) mauna; urgency=medium
+
+  * New upstream version for Mauna Linux
+  * 23.9.1
+  * MLVER - Mauna Linux Version 23.9.1
+
+ -- Mauna Linux <dev@maunalinux.top>  Thu, 14 Sep 2023 17:24:27 -0300
+
 base-files (23.9mauna1) mauna; urgency=medium
 
   * New upstream release for Mauna Linux

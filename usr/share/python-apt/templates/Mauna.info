@@ -1,13 +1,13 @@
 ############
-# Mauna 23 #
+# Mauna 24 #
 ############
 
 Suite: mauna
 RepositoryType: deb
-BaseURI: http://deb.maunalinux.top/mauna/
+BaseURI: http://apt.maunalinux.top/mauna/
 MatchURI: mauna
 MirrorsFile: Mauna.mirrors
-Description: Amarok 23 'Horizon'
+Description: Mauna 24 'Sirius'
 Component: main
 CompDescription: Suportado oficialmente
 Component: contrib
@@ -18,16 +18,16 @@ Component: non-free
 CompDescription: Pacotes incompativeis com a DFSG
 
 #############
-# Debian Testing #
+# Debian Stable #
 #############
 
-Suite: testing
+Suite: bookworm
 RepositoryType: deb
 BaseURI: http://deb.debian.org/debian/
 MatchURI: ((http|ftp)[0-9]*\.([a-z]*\.){{0,1}}|deb\.|httpredir\.)debian\.org
 MirrorsFile: Debian.mirrors
 ParentSuite: mauna
-Description: Debian Testing 'Trixie'
+Description: Debian Stable 'Bookworm'
 Component: main
 CompDescription: Officially supported
 Component: contrib
@@ -37,7 +37,7 @@ CompDescription: Non-DFSG-compatible Firmware for Hardware Support
 Component: non-free
 CompDescription: Non-DFSG-compatible Software
 
-Suite: testing-security
+Suite: bookworm-security
 RepositoryType: deb
 BaseURI: http://security.debian.org/
 MatchURI: security\.debian\.org
@@ -45,7 +45,7 @@ MirrorsFile: Debian.mirrors
 ParentSuite: mauna
 Description: Atualizações de segurança do Debian
 
-Suite: testing-updates
+Suite: bookworm-updates
 RepositoryType: deb
 BaseURI: http://security.debian.org/
 MatchURI: security\.debian\.org

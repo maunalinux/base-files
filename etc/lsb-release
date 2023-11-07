@@ -1,8 +1,8 @@
-PRETTY_NAME="Mauna Linux 23.9.1"
+PRETTY_NAME="Mauna Linux 24"
 NAME="Mauna Linux"
-VERSION_ID="23.9.1"
-VERSION="23.9.1 Horizon"
-VERSION_CODENAME=Horizon
+VERSION_ID="24"
+VERSION="24 Sirius"
+VERSION_CODENAME=Sirius
 ID=mauna
 ID_LIKE=debian
 HOME_URL="https://maunalinux.top/"

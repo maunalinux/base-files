@@ -1,3 +1,10 @@
+base-files (24.0mauna1) mauna; urgency=medium
+
+  * New upstream release
+  * Upgrade debian base to 12.4
+
+ -- Mauna Linux <dev@maunalinux.top>  Mon, 11 Dec 2023 14:27:01 -0300
+
 base-files (24.0) mauna; urgency=medium
 
   * New upstream release

@@ -1,3 +1,11 @@
+base-files (24.2) mauna; urgency=medium
+
+  * New upstream release
+  * 24.2
+  * MLVER - Mauna Linux Version 24.2
+
+ -- Mauna Linux <dev@maunalinux.top>  Wed, 24 Apr 2024 16:53:37 -0300
+
 base-files (24.1mauna1) mauna; urgency=medium
 
   * New upstream release

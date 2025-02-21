@@ -1,3 +1,12 @@
+base-files (24.5) mauna; urgency=medium
+
+  * New upstream release
+  * 24.5
+  * MLVER - Mauna Linux Version 24.5
+  * Update Debian Base to 12.9
+
+ -- Mauna Linux <dev@maunalinux.top>  Sun, 16 Feb 2025 14:10:30 -0300
+
 base-files (24.4) mauna; urgency=medium
 
   * New upstream release

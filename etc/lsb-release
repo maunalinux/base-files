@@ -1,7 +1,7 @@
-PRETTY_NAME="Mauna Linux 24.6"
+PRETTY_NAME="Mauna Linux 24.7"
 NAME="Mauna Linux"
-VERSION_ID="24.6"
-VERSION="24.6 Sirius"
+VERSION_ID="24.7"
+VERSION="24.7 Sirius"
 VERSION_CODENAME=Sirius
 ID=mauna
 ID_LIKE=debian

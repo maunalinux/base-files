@@ -1,156 +1,192 @@
-base-files (24.7) mauna; urgency=medium
+base-files (25.1) polaris; urgency=medium
 
   * New upstream release
-  * 24.7
-  * MLVER - Mauna Linux Version 24.7
-  * Update Debian Base to 12.11
+  * Update for Mauna 25.1
 
- -- Mauna Linux <dev@maunalinux.top>  Thu, 19 Jun 2025 21:06:57 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Wed, 17 Dec 2025 15:25:37 +0000
 
-base-files (24.6) mauna; urgency=medium
+base-files (25.0.2) polaris; urgency=medium
 
   * New upstream release
 
- -- Mauna Linux <dev@maunalinux.top>  Mon, 17 Mar 2025 21:39:09 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Wed, 17 Sep 2025 15:19:16 +0000
 
-base-files (24.5) mauna; urgency=medium
-
-  * New upstream release
-  * 24.5
-  * MLVER - Mauna Linux Version 24.5
-  * Update Debian Base to 12.9
-
- -- Mauna Linux <dev@maunalinux.top>  Sun, 16 Feb 2025 14:10:30 -0300
-
-base-files (24.4) mauna; urgency=medium
+base-files (25.0.1) polaris; urgency=medium
 
   * New upstream release
-  * 24.4
-  * MLVER - Mauna Linux Version 24.4
-  * Update Debian Base to 12.8
 
- -- Mauna Linux <dev@maunalinux.top>  Wed, 13 Nov 2024 17:00:18 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Wed, 17 Sep 2025 11:51:57 +0000
 
-base-files (24.3) mauna; urgency=medium
+base-files (25.0) polaris; urgency=medium
 
   * New upstream release
-  * 24.3
-  * MLVER - Mauna Linux Version 24.3
-  * Update Debian Version to 12.6
+  * Update for Mauna Linux 25 "Stable"
 
- -- Mauna Linux <dev@maunalinux.top>  Wed, 14 Aug 2024 19:32:44 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Tue, 02 Sep 2025 21:53:36 +0000
 
-base-files (24.2) mauna; urgency=medium
+base-files (25.0~beta2.8) polaris; urgency=medium
 
   * New upstream release
-  * 24.2
-  * MLVER - Mauna Linux Version 24.2
 
- -- Mauna Linux <dev@maunalinux.top>  Wed, 24 Apr 2024 16:53:37 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Mon, 17 Mar 2025 21:57:46 +0000
 
-base-files (24.1mauna1) mauna; urgency=medium
+base-files (25.0~beta2.7) polaris; urgency=medium
 
   * New upstream release
-  * Upgrade debian base to 12.5
 
- -- Mauna Linux <dev@maunalinux.top>  Fri, 01 Mar 2024 20:24:48 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Fri, 14 Mar 2025 18:45:05 +0000
 
-base-files (24.1) mauna; urgency=medium
-
-  * New upstream release
-  * 24.1
-  * MLVER - Mauna Linux Version 24.1
-
- -- Mauna Linux <dev@maunalinux.top>  Mon, 22 Jan 2024 13:17:59 -0300
-
-base-files (24.0mauna1) mauna; urgency=medium
+base-files (25.0~beta2.6) polaris; urgency=medium
 
   * New upstream release
-  * Upgrade debian base to 12.4
 
- -- Mauna Linux <dev@maunalinux.top>  Mon, 11 Dec 2023 14:27:01 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Thu, 13 Mar 2025 21:03:08 +0000
 
-base-files (24.0) mauna; urgency=medium
+base-files (25.0~beta2.5) polaris; urgency=medium
 
   * New upstream release
-  * 24
-  * MLVER - Mauna Linux Version 24
 
- -- Mauna Linux <dev@maunalinux.top>  Fri, 03 Nov 2023 12:22:13 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Thu, 13 Mar 2025 15:41:42 +0000
 
-base-files (23.9mauna2) mauna; urgency=medium
+base-files (25.0~beta2.4) polaris; urgency=medium
 
-  * New upstream version for Mauna Linux
-  * 23.9.1
-  * MLVER - Mauna Linux Version 23.9.1
+  * New upstream release
 
- -- Mauna Linux <dev@maunalinux.top>  Thu, 14 Sep 2023 17:24:27 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Thu, 13 Mar 2025 13:31:12 +0000
 
-base-files (23.9mauna1) mauna; urgency=medium
+base-files (25.0~beta2.3) polaris; urgency=medium
 
-  * New upstream release for Mauna Linux
-  * 23.9
-  * MLVER - Mauna Linux Version 23.9
-  * Increase Mauna.Info and Mauna.Mirrors
+  * New upstream release
 
- -- Mauna Linux <dev@maunalinux.top>  Sat, 19 Aug 2023 17:40:20 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Thu, 13 Mar 2025 01:30:44 +0000
 
-base-files (23.3amarok1) kapok; urgency=medium
+base-files (25.0~beta2.2) polaris; urgency=medium
 
-  * New upstream version for Amarok Linux OS
-  * 23.3
-  * update ALVER
-  * update Amarok.Info
+  * New upstream release
 
- -- Amarok Linux <packages@amaroklinux.org>  Tue, 01 Aug 2023 21:23:54 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Wed, 12 Mar 2025 19:00:10 -0300
 
-base-files (23.2amarok2) kapok; urgency=medium
+base-files (25.0~beta2.1) polaris; urgency=medium
 
-  * New upstream version for Amarok Linux OS
-  * update base to Trixie/sid
+  * New upstream release
+  * debian/rules: update vendorfile for mauna
 
- -- Amarok Linux <packages@amaroklinux.org>  Sat, 17 Jun 2023 16:15:09 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Sun, 09 Mar 2025 20:52:13 -0300
 
-base-files (23.2amarok1) kapok; urgency=medium
+base-files (25.0~beta2) polaris; urgency=medium
 
-  * New upstream version for Amarok Linux OS
-  * 23.2
+  * New upstream release
 
- -- Amarok Linux <packages@amaroklinux.org>  Sat, 27 May 2023 13:42:38 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Sun, 09 Mar 2025 18:19:41 -0300
 
-base-files (23.1amarok1) kapok; urgency=medium
+base-files (25.0~beta1) polaris; urgency=medium
 
-  * New upstream version for Amarok Linux OS
-  * 23.1
+  * New upstream release
+  * 25 - Testing
+  * MLVER - Mauna Linux Version 25
+  * Debian Base: 13 Trixie 
 
- -- Amarok Linux <packages@amaroklinux.org>  Thu, 25 May 2023 20:23:05 -0300
+ -- Mauna Linux <dev@maunalinux.top>  Fri, 31 Jan 2025 15:40:57 -0300
 
-base-files (23.0amarok2) kapok; urgency=medium
+base-files (13.6) unstable; urgency=medium
 
-  * New upstream version for Amarok Linux OS
-  * update
+  * Change default dot.profile to not use mesg anymore. Closes: #1088011.
 
- -- Amarok Linux <packages@amaroklinux.org>  Mon, 13 Feb 2023 11:36:06 -0300
+ -- Santiago Vila <sanvila@debian.org>  Fri, 22 Nov 2024 15:40:00 +0100
 
-base-files (23.0amarok1) kapok; urgency=medium
+base-files (13.5) unstable; urgency=medium
 
-  * New upstream release for Amarok Linux OS
-  * 23
+  [ Chris Hofstaedtler ]
+  * Fix typo in preinst: lib64 -> libx32. Closes: #1077863.
+  [ Helmut Grohne ]
+  * Work around /lib64 link created by systemd-nspawn. Closes: #1077866.
+  [ Santiago Vila ]
+  * Add lintian overrides for the directories that have become symlinks.
 
- -- Amarok Linux <packages@amaroklinux.org>  Thu, 08 Dec 2022 11:10:31 -0300
+ -- Santiago Vila <sanvila@debian.org>  Sun, 04 Aug 2024 23:30:00 +0200
 
-base-files (22.0-7amarok1) stable; urgency=medium
+base-files (13.4) unstable; urgency=medium
 
-  * New upstream version for Amarok Linux OS
-  * 22.09
+  [ Helmut Grohne ]
+  * Tighten the merged-/usr preinst check. Closes: #1076491.
+  [ Santiago Vila ]
+  * Raise Standards-Version to 4.7.0.
 
- -- Amarok Linux <packages@amaroklinux.org>  Thu, 22 Sep 2022 12:31:53 -0300
+ -- Santiago Vila <sanvila@debian.org>  Thu, 01 Aug 2024 12:30:00 +0200
 
-base-files (22.0-6amarok1) stable; urgency=medium
+base-files (13.3) unstable; urgency=medium
 
-  * New upstream version for Amarok Linux OS
+  [ Helmut Grohne ]
+  * DEP17: Install /usr-merge aliasing symlinks. Closes: #1064459.
 
- -- Amarok Linux <packages@amaroklinux.org>  Sun, 04 Sep 2022 14:45:57 -0300
+ -- Santiago Vila <sanvila@debian.org>  Thu, 06 Jun 2024 00:35:00 +0200
+
+base-files (13.2) unstable; urgency=medium
+
+  * Document that /etc/profile is not a conffile anymore. Closes: #868095.
+  * Use a regexp to source files in /etc/profile.d. The behaviour should now be
+    well defined and consistent. Closes: #885414, #1069279.
+  * Add NEWS.Debian entry for the above.
+  * Document that the default umask is defined in /etc/login.defs. Closes: #983606.
+  * Add #DEBHELPER# token to postinst to make lintian happy.
+  * Make binary package to be git-reproducible.
+
+ -- Santiago Vila <sanvila@debian.org>  Fri, 03 May 2024 18:15:00 +0200
+
+base-files (13.1) unstable; urgency=medium
+
+  * Rename postinst.in to postinst. Use dh_installdeb token feature instead.
+  * Add /usr/local/libexec. Closes: #994220.
+  * Machine-readable copyright file. Closes: #1020828.
+  * Add a debian/gbp.conf file.
+
+ -- Santiago Vila <sanvila@debian.org>  Wed, 17 Apr 2024 12:45:00 +0200
+
+base-files (13) unstable; urgency=medium
+
+  * Change issue, issue.net, debian_version and os-release
+    to read "trixie/sid".
+  * Change VERSION_CODENAME in os-release to read "trixie".
+  * Drop VERSION and VERSION_ID from os-release.
+
+ -- Santiago Vila <sanvila@debian.org>  Sun, 11 Jun 2023 17:00:00 +0200
+
+base-files (12.4) unstable; urgency=medium
+
+  * Release candidate for bookworm as stable:
+  - Use "12" as version in /etc/issue and /etc/issue.net.
+    (never expected to change after release)
+  - Use 12.0 as version in /etc/debian_version.
+    (expected to change at every point release)
+  - Change PRETTY_NAME in /usr/lib/os-release, adding 12 as version number
+    and "(bookworm)" as codename. Add also VERSION_ID and VERSION.
+    (never expected to change)
+  - Variable VERSION_CODENAME was already defined as "bookworm".
+  - Update README (bookworm -> trixie).
+  * Refresh GFDL-1.2, GFDL-1.3, GPL-3, LGPL-2 and LGPL-3 from their
+    canonical place at https://ftp.gnu.org/gnu/Licenses/ as they have
+    minor editorial changes like trimming spaces, https, etc.
+  * Drop debian/current-md5sums-obsolete. Closes: #1009358.
+  * Ship a real debian/copyright file in source package instead of
+    generating it at build time.
+  * Call dh_installchangelogs using --no-trim option.
+    Add versioned build-dependency on debhelper for the above.
+  * Update lintian-overrides to new format.
+  * Rules-Requires-Root: binary-targets.
+  * Update standards version to 4.6.2.
+
+ -- Santiago Vila <sanvila@debian.org>  Thu, 02 Mar 2023 14:55:00 +0100
+
+base-files (12.3) unstable; urgency=high
+
+  * Add VERSION_CODENAME to /etc/os-release. Closes: #1008735.
+    This still respects the fact that Debian distributions do not have
+    a version number until they are actually released as stable, but makes
+    /etc/os-release a little bit more useful for those who use testing as
+    a pre-release for the next stable. Those users are also the reason why
+    in this case we are simply using the string "bookworm".
+
+ -- Santiago Vila <sanvila@debian.org>  Mon, 03 Oct 2022 23:30:00 +0200
 
 base-files (12.2) unstable; urgency=medium
 

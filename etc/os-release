@@ -1,11 +1,11 @@
-PRETTY_NAME="Mauna Linux 24.7"
+PRETTY_NAME="Mauna Linux 25.1"
 NAME="Mauna Linux"
-VERSION_ID="24.7"
-VERSION="24.7 Sirius"
-VERSION_CODENAME=Sirius
+VERSION_ID="25.1"
+VERSION="25.1 (polaris)"
+VERSION_CODENAME=polaris
 ID=mauna
 ID_LIKE=debian
 HOME_URL="https://maunalinux.top/"
 SUPPORT_URL="https://forum.maunalinux.top/"
-BUG_REPORT_URL="https://github.com/maunalinux/issue/"
+BUG_REPORT_URL="https://github.com/maunalinux/issue"
 WIKI_URL="http://wiki.maunalinux.top/"

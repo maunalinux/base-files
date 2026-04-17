@@ -1,7 +1,7 @@
-PRETTY_NAME="Mauna Linux 25.1"
+PRETTY_NAME="Mauna Linux 25.2"
 NAME="Mauna Linux"
-VERSION_ID="25.1"
-VERSION="25.1 (polaris)"
+VERSION_ID="25.2"
+VERSION="25.2 (polaris)"
 VERSION_CODENAME=polaris
 ID=mauna
 ID_LIKE=debian

@@ -1,3 +1,10 @@
+base-files (25.3) polaris; urgency=medium
+
+  * New upstream release
+  * Update for Mauna 25.3
+
+ -- Mauna Linux <dev@maunalinux.top>  Wed, 26 Aug 2026 14:18:34 -0300
+
 base-files (25.2) polaris; urgency=medium
 
   * New upstream release
